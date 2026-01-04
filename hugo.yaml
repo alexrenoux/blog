@@ -1,4 +1,4 @@
-baseURL: "https://alexrenoux.github.io/blog/"
+baseURL: https://alexrenoux.github.io/blog/
 title: alexblog
 pagination.pagerSize: 5
 theme: PaperMod
