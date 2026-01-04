@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com/"
+baseURL: "https://alexrenoux.github.io/blog/"
 title: alexblog
 pagination.pagerSize: 5
 theme: PaperMod
