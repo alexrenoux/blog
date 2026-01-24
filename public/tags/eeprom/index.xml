@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Eeprom on alexblog</title>
+    <title>Eeprom on alexrenoux blog</title>
     <link>https://alexrenoux.github.io/blog/tags/eeprom/</link>
-    <description>Recent content in Eeprom on alexblog</description>
-    <image>
-      <title>alexblog</title>
-      <url>https://alexrenoux.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://alexrenoux.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
+    <description>Recent content in Eeprom on alexrenoux blog</description>
     <generator>Hugo -- 0.154.2</generator>
     <language>en</language>
     <lastBuildDate>Sun, 04 Jan 2026 00:00:00 +0000</lastBuildDate>
