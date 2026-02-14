@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on alexrenoux blog</title>
-    <link>https://alexrenoux.github.io/blog/posts/</link>
-    <description>Recent content in Posts on alexrenoux blog</description>
+    <title>Nvidia on alexrenoux blog</title>
+    <link>https://alexrenoux.github.io/blog/tags/nvidia/</link>
+    <description>Recent content in Nvidia on alexrenoux blog</description>
     <generator>Hugo -- 0.154.2</generator>
     <language>en</language>
     <lastBuildDate>Thu, 12 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://alexrenoux.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://alexrenoux.github.io/blog/tags/nvidia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How NVIDIA Plans to Defend Its AI Crown in a Competitive Market</title>
       <link>https://alexrenoux.github.io/blog/posts/nvidia-ai-leadership/</link>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://alexrenoux.github.io/blog/posts/nvidia-ai-leadership/</guid>
       <description>Read about how NVIDIA is planning to stay the leader in the AI market (based on Dylan Patel&amp;rsquo;s latest appearance in The Mad Podcast).</description>
-    </item>
-    <item>
-      <title>The EEPROM Memory in 2025</title>
-      <link>https://alexrenoux.github.io/blog/posts/eeprom-memory-2025/</link>
-      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://alexrenoux.github.io/blog/posts/eeprom-memory-2025/</guid>
-      <description>Read about the EEPROM memory market in 2025 from a Technical Marketing Engineer.</description>
     </item>
   </channel>
 </rss>

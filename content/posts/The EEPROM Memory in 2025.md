@@ -3,9 +3,10 @@ title: The EEPROM Memory in 2025
 summary: Read about the EEPROM memory market in 2025 from a Technical Marketing Engineer.
 date: 2026-01-04
 series:
-weight: 1
+weight:
 aliases:
-  - /eeprom-memory-2025
+  - /posts/eeprom-memory-2025/
+slug: eeprom-memory-2025
 tags:
   - semiconductor
   - eeprom

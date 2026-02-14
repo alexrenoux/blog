@@ -6,8 +6,29 @@
     <description>Recent content in Tags on alexrenoux blog</description>
     <generator>Hugo -- 0.154.2</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://alexrenoux.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ai</title>
+      <link>https://alexrenoux.github.io/blog/tags/ai/</link>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://alexrenoux.github.io/blog/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nvidia</title>
+      <link>https://alexrenoux.github.io/blog/tags/nvidia/</link>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://alexrenoux.github.io/blog/tags/nvidia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Semiconductor</title>
+      <link>https://alexrenoux.github.io/blog/tags/semiconductor/</link>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://alexrenoux.github.io/blog/tags/semiconductor/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Personal</title>
       <link>https://alexrenoux.github.io/blog/tags/personal/</link>
@@ -20,13 +41,6 @@
       <link>https://alexrenoux.github.io/blog/tags/eeprom/</link>
       <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://alexrenoux.github.io/blog/tags/eeprom/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Semiconductor</title>
-      <link>https://alexrenoux.github.io/blog/tags/semiconductor/</link>
-      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://alexrenoux.github.io/blog/tags/semiconductor/</guid>
       <description></description>
     </item>
   </channel>

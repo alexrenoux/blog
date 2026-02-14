@@ -2,28 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://alexrenoux.github.io/blog/posts/the-eeprom-memory-in-2025/</loc>
-    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alexrenoux.github.io/blog/about/</loc>
-    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
+    <loc>https://alexrenoux.github.io/blog/tags/ai/</loc>
+    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://alexrenoux.github.io/blog/</loc>
+    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexrenoux.github.io/blog/posts/nvidia-ai-leadership/</loc>
+    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexrenoux.github.io/blog/tags/nvidia/</loc>
+    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexrenoux.github.io/blog/posts/</loc>
+    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexrenoux.github.io/blog/tags/semiconductor/</loc>
+    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexrenoux.github.io/blog/tags/</loc>
+    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexrenoux.github.io/blog/about/</loc>
     <lastmod>2026-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://alexrenoux.github.io/blog/tags/personal/</loc>
     <lastmod>2026-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alexrenoux.github.io/blog/tags/</loc>
-    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://alexrenoux.github.io/blog/tags/eeprom/</loc>
     <lastmod>2026-01-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alexrenoux.github.io/blog/posts/</loc>
-    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alexrenoux.github.io/blog/tags/semiconductor/</loc>
+    <loc>https://alexrenoux.github.io/blog/posts/eeprom-memory-2025/</loc>
     <lastmod>2026-01-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://alexrenoux.github.io/blog/archives/</loc>
